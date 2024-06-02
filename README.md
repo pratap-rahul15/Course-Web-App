@@ -72,27 +72,29 @@ Java Version Used **Java 17**
   
   React Version Used **18.3.1**
   
-  "react-dom": **"^18.3.1"**,
-  "react-router-dom": **"^6.23.0"**
-  "axios": **"^1.6.8**
+  - "react-dom": **"^18.3.1"**
+  
+  - "react-router-dom": **"^6.23.0"**
+  
+  - "axios": **"^1.6.8**
   
 **In the src folder I have created in total 8 sub-folders(Components)**
 
-    a - **AboutMe.js** component contains the javascript code for the About Me, the developer detail page.
+   -  **AboutMe.js** component contains the javascript code for the About Me, the developer detail page.
 
-    b - **AddCourse.js** component contains the javascript code for the AddCourse page, where the user can eneter the **id, title & description** to add a new course to the 
+   -  **AddCourse.js** component contains the javascript code for the AddCourse page, where the user can eneter the **id, title & description** to add a new course to the 
           DB.
 
-    c - **AllCourses.js** component contains the javascript code for the AllCourses page, where a user can view all the subject they currently have or added to the DB.    
+   -  **AllCourses.js** component contains the javascript code for the AllCourses page, where a user can view all the subject they currently have or added to the DB.    
 
-    d - **Course.js** component contains the javascript code for the Course page, where a user can delete the existing or newly added course from the DB.
+   - **Course.js** component contains the javascript code for the Course page, where a user can delete the existing or newly added course from the DB.
 
-    e - **Headers.js** component contains the javascript code for the Headers page.
+   - **Headers.js** component contains the javascript code for the Headers page.
 
-    f - **Home.js** component contains the javascript code for the Home page.
+   - **Home.js** component contains the javascript code for the Home page.
 
-    g - **Menu.js** component contains the javascript code for the Menu page, it handles all the **routable** links of the my web application.
+   - **Menu.js** component contains the javascript code for the Menu page, it handles all the **routable** links of the my web application.
 
-    h - **ReachMe.js** component contains the javascript code for the ReachMe page, it contains the **Linkedln** & **E-mail Address** of mine, where anybody can reach me.
+   - **ReachMe.js** component contains the javascript code for the ReachMe page, it contains the **Linkedln** & **E-mail Address** of mine, where anybody can reach me.
 
    **THANK YOU**
