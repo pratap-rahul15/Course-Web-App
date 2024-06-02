@@ -61,7 +61,7 @@ Java Version Used **Java 17**
 
       c -  **description**
 
- -  **service** Package which has 2 file named **CourseService** & **CourseServiceImplemeentation** which acts as the 
+ -  **service** Package which has 2 file named **CourseService** & **CourseServiceImplementation** which acts as the 
     **Service layer(Bussiness Logic Layer)**
 **===============================================================================================================================**
 
