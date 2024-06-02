@@ -95,6 +95,6 @@ Java Version Used **Java 17**
 
    - **Menu.js** component contains the javascript code for the Menu page, it handles all the **routable** links of the my web application.
 
-   - **ReachMe.js** component contains the javascript code for the ReachMe page, it contains the **Linkedln** & **E-mail Address** of mine, where anybody can reach me.
+   - **ReachMe.js** component contains the javascript code for the ReachMe page, it contains the **Linkedln** & **E-mail Address** of mine, through which anybody can reach me.
 
    **THANK YOU**
